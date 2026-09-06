@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=NAGARJUN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20Engineer%20%E2%80%A2%20Software%20Engineer&descAlignY=60"/>
 
 <h1 align="center">Hi, I'm NAGARJUN S S</h1>
 
@@ -54,7 +56,7 @@ Electronics and Communication Engineer | Problem Solver | Building Real-World Pr
 ---
 
 
-# Currently Working On
+# 🚀 Currently Working On
 
 - Building real-world engineering and software projects.
 - Improving Python and programming skills.
@@ -63,7 +65,7 @@ Electronics and Communication Engineer | Problem Solver | Building Real-World Pr
 
 ---
 
-# Currently Learning
+# 🌱 Currently Learning
 
 - Python
 - Java
@@ -75,7 +77,7 @@ Electronics and Communication Engineer | Problem Solver | Building Real-World Pr
 
 ---
 
-# Goals
+# 🎯 Goals
 
 - Build more real-world projects.
 - Improve programming and problem-solving skills.
