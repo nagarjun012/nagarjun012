@@ -44,6 +44,7 @@ Electronics and Communication Engineer | Problem Solver | Building Real-World Pr
 <a href="https://x.com/arjun1287">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
+<a href="https://instagram.com/arzun.012"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
 </p>
 
