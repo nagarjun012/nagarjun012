@@ -65,48 +65,6 @@ Electronics and Communication Engineer | Problem Solver | Building Real-World Pr
 ---
 
 
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nagarjun012&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjun012&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjun012&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nagarjun012&theme=tokyo-night"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nagarjun012&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 # 🛠 Currently Working On
 
 - Building real-world engineering and software projects.
