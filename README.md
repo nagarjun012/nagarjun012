@@ -54,7 +54,7 @@ Electronics and Communication Engineer | Problem Solver | Building Real-World Pr
 ---
 
 
-# 🛠 Currently Working On
+# Currently Working On
 
 - Building real-world engineering and software projects.
 - Improving Python and programming skills.
