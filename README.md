@@ -49,18 +49,7 @@ Electronics and Communication Engineer | Problem Solver | Building Real-World Pr
 
 # Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,vscode"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-</p>
+## Languages <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,ts,js"/> </p> ## Frontend <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css"/> </p> ## Backend <p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring"/> </p> ## Database <p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/> </p>
 
 ---
 
